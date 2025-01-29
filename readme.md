@@ -1,4 +1,4 @@
-Whoops! If you run a big export and find out that you messed up the encoding, these tools may help you to repair it after the fact.
+Whoops! If you run a big WordPress Multisite database migration and find out that you messed up the encoding, these tools may help you to repair it after the fact.
 
 Use at your own risk.
 
